@@ -1,0 +1,5 @@
+58 is not a palindrome
+72 is not a palindrome
+88 is a palindrome
+lokesh is not a palindrome
+madam is a palindrome
